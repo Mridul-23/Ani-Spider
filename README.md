@@ -2,6 +2,16 @@
 
 Ani-Spider is a web scraping tool built using Scrapy, a powerful and flexible web crawling and web scraping framework for Python. This project is designed to scrape data from the MyAnimeList website efficiently.
 
+## Table of Contents
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
 ## Features
 
 - **Efficient Web Scraping**: Utilizes Scrapy's features to efficiently scrape data from websites.
