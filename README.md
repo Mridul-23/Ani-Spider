@@ -9,6 +9,7 @@ Ani-Spider is a web scraping tool built using Scrapy, a powerful and flexible we
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
+- [Dataset](#dataset)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
@@ -80,6 +81,10 @@ Replace `<spider_name>` with the name of the spider you wish to run.
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any features, improvements, or bug fixes.
+
+## Dataset
+
+If you are interested in the datasets that are fetched and preprocessed from this spider then here's the [Dataset](https://www.kaggle.com/datasets/mridulnarula/anime-comprehensive-dataset).
 
 ## License
 
